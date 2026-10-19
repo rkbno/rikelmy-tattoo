@@ -1,5 +1,5 @@
 // Configuração do site. Edite só aqui.
-const BOOKING_URL = "https://COLE-O-LINK-DA-AGENDA"; // Cal.com, Calendly ou Google Agenda
+const BOOKING_URL = "https://calendar.app.google/M5JJGD5ViEnHDFyY7"; 
 
 // Botões de agendamento
 document.querySelectorAll('[data-link="booking"]').forEach((el) => {
