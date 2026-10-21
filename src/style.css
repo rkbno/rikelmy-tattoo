@@ -1,4 +1,4 @@
-:root{--black:#050505;--coal:#121212;--red:#D4121C;--bone:#ECE6DA;--steel:#8C8C8C;--line:#2A2A2A;
+:root{--black:#818080;--coal:#121212;--red:#D4121C;--bone:#000000;--steel:#000000;--line:#2A2A2A;
 --blackletter:'UnifrakturCook','Old English Text MT',serif;--display:'Anton','Impact',sans-serif;--body:'Barlow','Arial',sans-serif}
 *{box-sizing:border-box;margin:0}
 html{scroll-behavior:smooth}
@@ -45,7 +45,7 @@ h2 em{font-style:normal;color:var(--red)}
 .note{margin-top:1.5rem;color:var(--steel)}
 .note a{color:var(--red)}
 .steps{list-style:none;padding:0;counter-reset:s;display:grid;gap:1.25rem;grid-template-columns:repeat(auto-fit,minmax(230px,1fr))}
-.steps li{counter-increment:s;background:var(--coal);border-left:6px solid var(--red);padding:1.25rem 1.25rem 1.5rem}
+.steps li{counter-increment:s;background:#5f5a5a;border-left:6px solid var(--red);padding:1.25rem 1.25rem 1.5rem}
 .steps li::before{content:counter(s);font:400 3.5rem/1 var(--display);color:var(--red)}
 .steps b{display:block;font:400 1.5rem var(--display);text-transform:uppercase;margin:.25rem 0}
 .steps span{color:var(--steel)}
