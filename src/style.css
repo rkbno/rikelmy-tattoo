@@ -375,14 +375,14 @@ footer {
 .emblem,
 .steps li {
   background-color: #CFC6B4;
-  background-image: url(/src/img/canto-tl.png), url(/src/img/canto-tr.png), url(/src/img/canto-bl.png), url(/src/img/canto-br.png);
+  background-image: url(/img/canto-tl.png), url(/img/canto-tr.png), url(/img/canto-bl.png), url(/img/canto-br.png);
   background-position: 6px 6px, calc(100% - 6px) 6px, 6px calc(100% - 6px), calc(100% - 6px) calc(100% - 6px);
   background-size: 44px auto;
   background-repeat: no-repeat;
 }
 
 .book {
-  background-image: url(/src/img/canto-tl-creme.png), url(/src/img/canto-tr-creme.png), url(/src/img/canto-bl-creme.png), url(/src/img/canto-br-creme.png);
+  background-image: url(/img/canto-tl-creme.png), url(/img/canto-tr-creme.png), url(/img/canto-bl-creme.png), url(/img/canto-br-creme.png);
   background-position: 20px 20px, calc(100% - 20px) 20px, 20px calc(100% - 20px), calc(100% - 20px) calc(100% - 20px);
   background-size: 56px auto;
   background-repeat: no-repeat;
